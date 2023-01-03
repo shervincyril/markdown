@@ -5,4 +5,9 @@
 ##### H5 Header 222
 ###### H6 Header 222
 ![Image of YakotCat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var a =10;
+var b=20;
+alert(a+b);
+```
